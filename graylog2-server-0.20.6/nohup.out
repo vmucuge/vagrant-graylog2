@@ -1,0 +1,7 @@
+Play server process ID is 6618
+[[36mdebug[0m] application - Loading timeout value into cache from configuration for key DEFAULT: Not configured, falling back to default.
+[[36mdebug[0m] application - Loading timeout value into cache from configuration for key node_refresh: Not configured, falling back to default.
+[[37minfo[0m] play - Application started (Prod)
+[[37minfo[0m] play - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+[[36mdebug[0m] application - Loading timeout value into cache from configuration for key search_universal_histogram: Not configured, falling back to default.
+[[36mdebug[0m] application - Loading timeout value into cache from configuration for key sources_all: Not configured, falling back to default.
