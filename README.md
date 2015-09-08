@@ -23,17 +23,3 @@ http://127.0.0.1:8080/graylog2-stream-dashboard
 Graylog2 server address: http://127.0.0.1:12900
 
 For more information and limitations of the dashboard: https://github.com/Graylog2/graylog2-stream-dashboard
-
-
-Debian Packages
-=========================
-
-Please see https://gist.github.com/hggh/7492598 for the Debian packages, if you want to use it without the Vagrant Box.
-
-Contact?
---------------
-
-Jonas Genannt @hggh / jonas@brachium-system.net
-
-IRC:
-freenode/#graylog2
